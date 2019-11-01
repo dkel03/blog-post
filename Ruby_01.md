@@ -50,13 +50,13 @@ module Cafe
 	end 
 end
 ```
-모듈은 module이라는 키워드로 시작하여 모듈 이름을 적고 end로 마친다. 모듈의 이름은 반드시 대문자로 시작해야 한다. 위의 코드에서는 Cafe라는 이름을 가진 모듈을 생성하였다.
+모듈은 `module`이라는 키워드로 시작하여 모듈 이름을 적고 `end`로 마친다. 모듈의 이름은 반드시 대문자로 시작해야 한다. 위의 코드에서는 **Cafe**라는 이름을 가진 모듈을 생성하였다.
 
-- **module_function()** 은 다른 파일에 모듈을 생성하였을 때, 모듈안에 있는 여러 메소드들을 접근 가능하도록 만들어주는 내장 메소드이다.
-- **show_menu()** 메소드는 beverage라는 입력값(해쉬)를 받으면 그 내용을 출력해주는 메소드이다.
-- **show_price()** 메소드는 beverage(해쉬)와 select라는 입력값을 받는다. select와 beverage라는 해쉬 값 내의 key를 비교하여 일치하는 값이 있으면 value값을 포함한 문자열을 리턴하고 그렇지 않으면 다른 문자열을 리턴한다.
+- `module_function()` 은 다른 파일에 모듈을 생성하였을 때, 모듈안에 있는 여러 메소드들을 접근 가능하도록 만들어주는 내장 메소드이다.
+- `show_menu()` 메소드는 **beverage**라는 입력값(해쉬)를 받으면 그 내용을 출력해주는 메소드이다.
+- `show_price()` 메소드는 **beverage**(해쉬)와 select라는 입력값을 받는다. select와 **beverage**라는 해쉬 값 내의 **key**를 비교하여 일치하는 값이 있으면 **value**값을 포함한 문자열을 리턴하고 그렇지 않으면 다른 문자열을 리턴한다.
 
-다음은 main.rb라는 파일에서 cafe.rb 파일의 Cafe 모듈을 활용한 예제이다.
+다음은 **main.rb**라는 파일에서 **cafe.rb** 파일의 **Cafe 모듈**을 활용한 예제이다.
 ```ruby
 #main.rb 
 require './data/cafe' 
@@ -68,6 +68,6 @@ gets.chomp() puts
 Cafe.show_price(beverage, select)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDEwMDMwMywxNDM5NjM4OTQ4LDkyNz
+eyJoaXN0b3J5IjpbLTc3Mzc2NDk0OSwxNDM5NjM4OTQ4LDkyNz
 IyNDZdfQ==
 -->
