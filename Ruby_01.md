@@ -67,7 +67,10 @@ Cafe.show_menu(beverage) select =
 gets.chomp() puts 
 Cafe.show_price(beverage, select)
 ```
+- require는 모듈이 작성된 파일을 불러와 사용하기 위해서 작성한다. 우리가 사용할 cafe 모듈은 cafe.rb파일에 있기 때문에 require 뒤에 cafe.rb 파일의 디렉토리를 작성한다.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDAwNzkxMjUsMTQzOTYzODk0OCw5Mj
+eyJoaXN0b3J5IjpbLTE0ODYyNDA0NDQsMTQzOTYzODk0OCw5Mj
 cyMjQ2XX0=
 -->
