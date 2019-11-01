@@ -1,4 +1,5 @@
 # Ruby 정복하기 (1)
+> **Note** 본 포스트는 Osam.kr의 Ruby 강좌를 정리한 것임을 알림
 ## 1. 해쉬와 반복자
 ### 해쉬
 
@@ -50,6 +51,6 @@ module Cafe
 end
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODgzNTY5NywxNDM5NjM4OTQ4LDkyNz
+eyJoaXN0b3J5IjpbMTAwMzc5MDEzNSwxNDM5NjM4OTQ4LDkyNz
 IyNDZdfQ==
 -->
