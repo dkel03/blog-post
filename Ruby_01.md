@@ -30,11 +30,25 @@ grades["Bandabi"] = 7
 모듈은 관련있는 상수와 메소드를 하나로 묶어놓을 때 사용하거나 Ruby에서 제공하는 믹스인(mix) 기능을 위해서 사용한다.
 
 다음과 같은 cafe.rb 모듈이 있다고 가정하자.
+
 ```ruby
+#data/cafe.rb
 module Cafe 
-	module_function() def show_menu(beverage) puts "Menu" beverage.each {|name, price| puts "#{name}\t#{price}"} end def show_price(beverage, select) beverage.each do |name, price| if select == name return "#{price}원 입니다" end end return "그런 음료는 판매하지 않습니다" end end
+	module_function() 
+	def show_menu(beverage) 
+		puts "Menu" beverage.each {|name, price| puts "#{name}\t#{price}"} 
+	end
+	def show_price(beverage, select) 
+		beverage.each do |name, price| 
+			if select == name 
+				return "#{price}원 입니다" 
+			end 
+		end 
+		return "그런 음료는 판매하지 않습니다" 
+	end 
+end
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjkzMjgyLDE0Mzk2Mzg5NDgsOTI3Mj
+eyJoaXN0b3J5IjpbNjMwNDQxODEzLDE0Mzk2Mzg5NDgsOTI3Mj
 I0Nl19
 -->
