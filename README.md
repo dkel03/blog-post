@@ -1,1 +1,1 @@
-# ruby-study
+# blog_posts
