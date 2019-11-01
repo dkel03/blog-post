@@ -19,6 +19,8 @@ grades = Hash.new
 grades["Soohorang"] = 9
 grades["Bandabi"] = 7
 ```
+해쉬에서는 다음과 같이 key값을 통해 value의 값을 가져올 수 있다
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MjI0Nl19
+eyJoaXN0b3J5IjpbMTQzOTYzODk0OCw5MjcyMjQ2XX0=
 -->
