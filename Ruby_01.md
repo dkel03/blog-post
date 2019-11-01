@@ -1,5 +1,5 @@
-
-## 해쉬와 반복자
+# Ruby 정복하기 (1)
+## 1. 해쉬와 반복자
 ### 해쉬
 
 > #### 루비의 Dictionary 자료형
@@ -21,6 +21,12 @@ grades["Bandabi"] = 7
 ```
 해쉬에서는 다음과 같이 key값을 통해 value의 값을 가져올 수 있다
 
+## 2. 메소드와 코드 블록
+
+## 3. 모듈
+### 모듈
+모듈(module) 이란 메소드나 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTYzODk0OCw5MjcyMjQ2XX0=
+eyJoaXN0b3J5IjpbODAwNTY3NDQyLDE0Mzk2Mzg5NDgsOTI3Mj
+I0Nl19
 -->
