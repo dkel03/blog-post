@@ -13,24 +13,24 @@
 ```ruby
 grades = {"Soohorang" => 9, "Bandabi" => 7}
 ```
-위에서 Soohorang은 key가 되고 9는 value가 된다. 마찬가지로 Bandabi는 key가 되고 7은 value가 된다. 해쉬는 다음과 같이 다른 방법으로도 생성할 수 있다.
+위에서 **Soohorang**은 **key**가 되고 **9**는 **value**가 된다. 마찬가지로 **Bandabi**는 **key**가 되고 **7**은 **value**가 된다. 해쉬는 다음과 같이 다른 방법으로도 생성할 수 있다.
 
 ```ruby
 grades = Hash.new
 grades["Soohorang"] = 9
 grades["Bandabi"] = 7
 ```
-해쉬에서는 다음과 같이 key값을 통해 value의 값을 가져올 수 있다
+해쉬에서는 다음과 같이 **key**값을 통해 **value**의 값을 가져올 수 있다
 
 ## 2. 메소드와 코드 블록
 
 ## 3. 모듈
 ### 모듈
-모듈(module) 이란 메소드나 클래스, 상수들을 묶는 방법으로서, 특정한 기능을 수행하는 부품이다.
+**모듈(module)** 이란 메소드나 클래스, 상수들을 묶는 방법으로서, 특정한 기능을 수행하는 부품이다.
 
 모듈은 관련있는 상수와 메소드를 하나로 묶어놓을 때 사용하거나 Ruby에서 제공하는 믹스인(mix) 기능을 위해서 사용한다.
 
-다음과 같은 cafe.rb 모듈이 있다고 가정하자.
+다음과 같은 **cafe.rb** 모듈이 있다고 가정하자.
 
 > 모듈은 같은 파일에서 생성할 수도 있고, 다른 파일에서  생성할 수도 있다. 다른파일에서 모듈을 생성하고 사용하는 방법에 대해 알아보자
 ```ruby
@@ -68,6 +68,6 @@ gets.chomp() puts
 Cafe.show_price(beverage, select)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mzc2NDk0OSwxNDM5NjM4OTQ4LDkyNz
-IyNDZdfQ==
+eyJoaXN0b3J5IjpbLTE2MDAwNzkxMjUsMTQzOTYzODk0OCw5Mj
+cyMjQ2XX0=
 -->
