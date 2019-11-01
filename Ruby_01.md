@@ -50,7 +50,10 @@ module Cafe
 	end 
 end
 ```
+모듈은 module이라는 키워드로 시작하여 모듈 이름을 적고 end로 마친다. 모듈의 이름은 반드시 대문자로 시작해야 한다. 위의 코드에서는 Cafe라는 이름을 가진 모듈을 생성하였다.
+
+module_function()은 다른 파일에 모듈을 생성하였을 때
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzc5MDEzNSwxNDM5NjM4OTQ4LDkyNz
+eyJoaXN0b3J5IjpbMTkwNTQxODY2OCwxNDM5NjM4OTQ4LDkyNz
 IyNDZdfQ==
 -->
