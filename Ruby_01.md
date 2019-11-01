@@ -12,6 +12,13 @@
 ```ruby
 grades = {"Soohorang" => 9, "Bandabi" => 7}
 ```
+위에서 Soohorang은 key가 되고 9는 value가 된다. 마찬가지로 Bandabi는 key가 되고 7은 value가 된다. 해쉬는 다음과 같이 다른 방법으로도 생성할 수 있다.
+
+```ruby
+grades = Hash.new
+grades["Soohorang"] = 9
+grades["Bandabi"] = 7
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzkwNDE5OF19
+eyJoaXN0b3J5IjpbOTI3MjI0Nl19
 -->
