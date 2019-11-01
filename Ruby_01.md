@@ -58,8 +58,18 @@ show_menu() 메소드는 beverage라는 입력값(해쉬)를 받으면 그 내�
 
 show_price() 메소드는 beverage(해쉬)와 select라는 입력값을 받는다. select와 beverage라는 해쉬 값 내의 key를 비교하여 일치하는 값이 있으면 value값을 포함한 문자열을 리턴하고 그렇지 않으면 다른 문자열을 리턴한다.
 
-다음은 main.rb라는 파일에서 cafe.rb 파일의 
+다음은 main.rb라는 파일에서 cafe.rb 파일의 Cafe 모듈을 활용한 예제이다.
+```ruby
+#main.rb 
+require './data/cafe' 
+
+beverage = {'coke' => 3000, 'juice' => 4000, 'tea' => 6000, 'coffee' => 5000} 
+
+Cafe.show_menu(beverage) select = 
+gets.chomp() puts 
+Cafe.show_price(beverage, select)
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTUyMjM4NzIsMTQzOTYzODk0OCw5Mj
+eyJoaXN0b3J5IjpbLTIxNDM0MjgyODgsMTQzOTYzODk0OCw5Mj
 cyMjQ2XX0=
 -->
