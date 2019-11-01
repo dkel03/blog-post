@@ -31,6 +31,7 @@ grades["Bandabi"] = 7
 
 다음과 같은 cafe.rb 모듈이 있다고 가정하자.
 
+> 모듈은 같은 파일에서 생성할 수도 있고, 다른 파일에서  생성할 수도 있다. 다른파일에서 모듈을 생성하고 사용하는 방법에 대해 알아보자
 ```ruby
 #data/cafe.rb
 module Cafe 
@@ -49,6 +50,6 @@ module Cafe
 end
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwNDQxODEzLDE0Mzk2Mzg5NDgsOTI3Mj
-I0Nl19
+eyJoaXN0b3J5IjpbMTE4ODgzNTY5NywxNDM5NjM4OTQ4LDkyNz
+IyNDZdfQ==
 -->
