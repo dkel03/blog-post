@@ -54,8 +54,12 @@ end
 
 module_function()은 다른 파일에 모듈을 생성하였을 때, 모듈안에 있는 여러 메소드들을 접근 가능하도록 만들어주는 내장 메소드이다.
 
-sho
+show_menu() 메소드는 beverage라는 입력값(해쉬)를 받으면 그 내용을 출력해주는 메소드이다.
+
+show_price() 메소드는 beverage(해쉬)와 select라는 입력값을 받는다. select와 beverage라는 해쉬 값 내의 key를 비교하여 일치하는 값이 있으면 value값을 포함한 문자열을 리턴하고 그렇지 않으면 다른 문자열을 리턴한다.
+
+다음은 main.rb라는 파일에서 cafe.rb 파일의 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMxNDY2MzQsMTQzOTYzODk0OCw5Mj
+eyJoaXN0b3J5IjpbLTEyMTUyMjM4NzIsMTQzOTYzODk0OCw5Mj
 cyMjQ2XX0=
 -->
