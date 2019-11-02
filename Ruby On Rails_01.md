@@ -39,11 +39,13 @@ REST는 Representational State Transfer 를 의미하고 RESTful 아키택쳐의
 -   자원 표현을 위해 자원 식별자 사용 (가령  URL)
 -   시스템 컴포넌트 간에 자원 상태 교환
 
-예제로, 레일즈 어플리케이션에서 요청은 다음과 같습니다.
+예제로, 레일즈 어플리케이션에서 요청은 다음과 같다.
 
 DELETE  /photos/17
 
-이 것은 photo 리소스 ID 17번 참조하고, 원하는 액션은 삭제라고 이해할 수 있습니다. REST는 웹 어플리케이션의 아키텍쳐상 자연스로운 형태이고, 레일즈는 어플리케이션을 RESTful 복잡성과 브라우저의 변덕스러운 요청에서 보호합니다.
+이 것은 photo 리소스 ID 17번 참조하고, 원하는 액션은 삭제라고 이해할 수 있다. REST는 웹 어플리케이션의 아키텍쳐상 자연스로운 형태이고, 레일즈는 어플리케이션을 RESTful 복잡성과 브라우저의 변덕스러운 요청에서 보호한다.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ0Njk0NTIsLTgyMzIzOTIyOF19
+eyJoaXN0b3J5IjpbLTE5Nzk5OTYwMzksLTE3NjQ0Njk0NTIsLT
+gyMzIzOTIyOF19
 -->
