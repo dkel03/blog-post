@@ -9,9 +9,9 @@
 
 레일즈의 철학은 몇 가지 원칙을 포함한다.
 
--   DRY  – “Don’t Repeat Yourself (반복하지 말 것)” – ‘같은 코드가 존재한다면 그것은 나쁜 것’을 의미합니다.
--   설정 보다 관습(Convention Over Configuration) – 이 원칙은 여러분이 원하는 기능들에 대해서 일정한 가정을 바탕으로 해결책을 제공하여 작은 단위의 끝없는 설정 파일을 줄여줍니다.
--   REST  는 웹 어플리케이션의 최고의 패턴이다.- 리소스와 표준  HTTP  요청(HTTP  verb)에 적합한 웹 어플리케이션 개발은 가장 빠른 방법입니다.
+-   `DRY`  “Don’t Repeat Yourself (반복하지 말 것)” = ‘같은 코드가 존재한다면 그것은 나쁜 것’
+-   `설정 보다 관습(Convention Over Configuration)` 원하는 기능들에 대해서 일정한 가정을 바탕으로 해결책을 제공 = 작은 단위의 끝없는 설정 파일을 줄여줌
+-   `REST  는 웹 어플리케이션의 최고의 패턴이다` 리소스와 표준  HTTP  요청(HTTP  verb)에 적합한 웹 어플리케이션 개발은 가장 빠른 방법입니다.
 
 ### 1. MVC  아키텍쳐
 레일즈의 중심에는  MVC  라고 불리는 모델, 뷰, 컨트롤러 아키텍쳐가 있다. MVC의 장점은 다음과 같다.
@@ -46,5 +46,5 @@ Rails 서버는 MVC 패턴으로 이루어져 있기 때문에 Model, View, Cont
 
 컨트롤러는 모델과 뷰를 "연결"하는 역할을 합니다. 레일즈에서 컨트롤러는 웹브라우저의 요청 받아서, 모델을 통해서 데이터를 조회하여, 출력을 위해 뷰에게 데이터를 넘겨줍니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzI3MjE4OCwtODIzMjM5MjI4XX0=
+eyJoaXN0b3J5IjpbNDE3MjA2NzUxLC04MjMyMzkyMjhdfQ==
 -->
