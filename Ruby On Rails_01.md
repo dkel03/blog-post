@@ -31,6 +31,19 @@
 
 ##### 1.3 컨트롤러(Controllers)
 컨트롤러는 모델과 뷰를 "연결"하는 역할을 한다. 레일즈에서 컨트롤러는 웹브라우저의 요청 받아서, 모델을 통해서 데이터를 조회하여, 출력을 위해 뷰에게 데이터를 넘겨준다.
+
+### 2.  REST
+
+REST는 Representational State Transfer 를 의미하고 RESTful 아키택쳐의 근간이 된다. 레일즈의 존재하는  REST  두가지 중요한 원리는 다음과 같다.
+
+-   자원 표현을 위해 자원 식별자 사용 (가령  URL)
+-   시스템 컴포넌트 간에 자원 상태 교환
+
+예제로, 레일즈 어플리케이션에서 요청은 다음과 같습니다.
+
+DELETE  /photos/17
+
+이 것은 photo 리소스 ID 17번 참조하고, 원하는 액션은 삭제라고 이해할 수 있습니다. REST는 웹 어플리케이션의 아키텍쳐상 자연스로운 형태이고, 레일즈는 어플리케이션을 RESTful 복잡성과 브라우저의 변덕스러운 요청에서 보호합니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjQ2ODgxOCwtODIzMjM5MjI4XX0=
+eyJoaXN0b3J5IjpbLTE3NjQ0Njk0NTIsLTgyMzIzOTIyOF19
 -->
