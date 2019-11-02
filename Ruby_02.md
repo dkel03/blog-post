@@ -1,5 +1,6 @@
 # Ruby 정복하기(2)
-> `Note` | 본 포스트는 공식 Ruby on Rails Guides 및 opentutorials의 Ruby Coin 강좌를 정리한 것임을 알림
+> `Note!`  
+> 본 포스트는 공식 Ruby on Rails Guides 및 opentutorials의 Ruby Coin 강좌를 정리한 것임을 알림
 
 ## 0. Ruby On Rails란
 ### Rails란 무엇인가
@@ -40,5 +41,5 @@ Rails 서버는 MVC 패턴으로 이루어져 있기 때문에 Model, View, Cont
 
 컨트롤러는 모델과 뷰를 "연결"하는 역할을 합니다. 레일즈에서 컨트롤러는 웹브라우저의 요청 받아서, 모델을 통해서 데이터를 조회하여, 출력을 위해 뷰에게 데이터를 넘겨줍니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDE0ODg0M119
+eyJoaXN0b3J5IjpbLTgyMzIzOTIyOF19
 -->
