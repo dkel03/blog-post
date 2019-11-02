@@ -2,8 +2,8 @@
 > `Note!`  
 > 본 포스트는 공식 Ruby on Rails Guides 및 opentutorials의 Ruby Coin 강좌를 정리한 것임을 알림
 
-## 0. Ruby On Rails란
-### Rails란 무엇인가
+## Ruby On Rails란
+### 1. Rails란 무엇인가
 레일즈는 루비 언어로 작성된 웹 어플리케이션 프레임워크이다.  가이드에 따르면 레일즈는 "최고"의 방법을 가정하고, 그러한 방법을 격려하도록 설계되어 있다고 한다. 
 
 “레일즈의 방법(The Rails Way)” 배우면, 아마도 굉장한 생산성 향상을 경험할 것이라고 한다. 내가 고수해오던 기존 Node.js 기반의 개발과 어떠한 차이점이 있는지 차차 알아가보려 한다.
@@ -14,6 +14,7 @@
 -   설정 보다 관습(Convention Over Configuration) – 이 원칙은 여러분이 원하는 기능들에 대해서 일정한 가정을 바탕으로 해결책을 제공하여 작은 단위의 끝없는 설정 파일을 줄여줍니다.
 -   REST  는 웹 어플리케이션의 최고의 패턴이다.- 리소스와 표준  HTTP  요청(HTTP  verb)에 적합한 웹 어플리케이션 개발은 가장 빠른 방법입니다.
 
+##### 1-1.
 
 ## 1. 기본구조 파악하기
 ### 서버가 하는 일
@@ -41,5 +42,5 @@ Rails 서버는 MVC 패턴으로 이루어져 있기 때문에 Model, View, Cont
 
 컨트롤러는 모델과 뷰를 "연결"하는 역할을 합니다. 레일즈에서 컨트롤러는 웹브라우저의 요청 받아서, 모델을 통해서 데이터를 조회하여, 출력을 위해 뷰에게 데이터를 넘겨줍니다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODk4MDA0NSwtODIzMjM5MjI4XX0=
+eyJoaXN0b3J5IjpbMTkxOTc5MTI0LC04MjMyMzkyMjhdfQ==
 -->
