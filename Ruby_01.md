@@ -69,8 +69,11 @@ Cafe.show_price(beverage, select)
 ```
 - require는 모듈이 작성된 파일을 불러와 사용하기 위해서 작성한다. 우리가 사용할 cafe 모듈은 cafe.rb파일에 있기 때문에 require 뒤에 cafe.rb 파일의 디렉토리를 작성한다.
 
+## 4. 클래스와 객체 이론
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYyNDA0NDQsMTQzOTYzODk0OCw5Mj
-cyMjQ2XX0=
+eyJoaXN0b3J5IjpbMTEzNzUzNzg0MywtMTQ4NjI0MDQ0NCwxND
+M5NjM4OTQ4LDkyNzIyNDZdfQ==
 -->
