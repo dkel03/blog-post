@@ -70,10 +70,15 @@ Cafe.show_price(beverage, select)
 - require는 모듈이 작성된 파일을 불러와 사용하기 위해서 작성한다. 우리가 사용할 cafe 모듈은 cafe.rb파일에 있기 때문에 require 뒤에 cafe.rb 파일의 디렉토리를 작성한다.
 
 ## 4. 클래스와 객체 이론
+Ruby는 객체 지향 언어이며 모든 것이 객체로서 표현된다. 문자열, 숫자, true와 false, 심지어 클래스 자체도 모두 객체로 표현된다.
 
+### Ruby에서 클래스 정의하기
+객체 지향 프로그램은 클래스(class)와 객체(object)라는 개념을 포함하고 있다.
+
+클래스란 객체의 형태를 지정할 때 사용되며 데이터
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzUzNzg0MywtMTQ4NjI0MDQ0NCwxND
+eyJoaXN0b3J5IjpbLTI3MzIwMDE1NiwtMTQ4NjI0MDQ0NCwxND
 M5NjM4OTQ4LDkyNzIyNDZdfQ==
 -->
