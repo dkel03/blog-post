@@ -53,16 +53,15 @@ gem 'bulma-rails', '~> 0.6.1'
 gem 'simple_form', '~> 3.5'
 
 group :development do
-					.
-					.
-					.
+					...
 	# Guard is a command line tool to easily handle events on file system modifications.
 	gem 'guard', '~> 2.1.4', '>=2.14.1'
+					...
 end
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTEyNjExNywxODIwNzk4NDcsLTE1Nj
+eyJoaXN0b3J5IjpbMTY5Mzg4NTE1OSwxODIwNzk4NDcsLTE1Nj
 M1ODQ3MTUsMTI2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1ODUx
 MSw5MDEyNzcxNTZdfQ==
 -->
