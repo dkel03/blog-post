@@ -32,7 +32,13 @@ basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배
 - Better Errors - 에러가 발생했을 때 보기 쉽게 해줌
 - Bulma - CSS Framework
 - Guard -  useful for live reloading scss, js, css and erb files
+
+### 프로젝트 생성
+`$ rails new demo_blog`
+`$ cd demo_blog`
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjU3MDg3NSwtODkzNzMxMTksLTMxNz
-g1ODUxMSw5MDEyNzcxNTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjM1ODQ3MTUsMTI2NjU3MDg3NSwtOD
+kzNzMxMTksLTMxNzg1ODUxMSw5MDEyNzcxNTZdfQ==
 -->
