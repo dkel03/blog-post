@@ -18,13 +18,14 @@ Ruby On Rails 설치
 
 ## 3. A Blog with Comments
 Building a blog with comments using Ruby on Rails is a foundational exercise I went through to learn more about the framework. 
-댓글이 가능ㅎ
+댓글이 가능한 블로그를 Ruby On Rails를 이용해 a blog with comments를 만들어 보는 것은 이 프레임워크를 배워감에 있어 기반이 되는 경험이 될 것이다.
+Ruby와 Rails를 함께 사용하는 것은 MVC
 Working together, both Ruby and Rails lend us a hand to generate a fairly simple MVC pattern built on top of a CRUD approach when working with dynamic data.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyODc3NDk2LC04OTM3MzExOSwtMzE3OD
-U4NTExLDkwMTI3NzE1Nl19
+eyJoaXN0b3J5IjpbLTY5ODQ0MTMxNCwtODkzNzMxMTksLTMxNz
+g1ODUxMSw5MDEyNzcxNTZdfQ==
 -->
