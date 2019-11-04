@@ -12,12 +12,16 @@
 
 ## 1. Introduction
  블로그, 뉴스피드, 작은 유저기반 앱 등을 만들어 볼 것임
+ 
 ## 2. Installation
+Ruby On Rails 설치
+
 ## 3. A Blog with Comments
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNjUyMjMzLC0zMTc4NTg1MTEsOTAxMj
+eyJoaXN0b3J5IjpbLTg5MzczMTE5LC0zMTc4NTg1MTEsOTAxMj
 c3MTU2XX0=
 -->
