@@ -40,14 +40,20 @@ basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배
 
 ### gem 설치
 demo_blog/Gemfile 에 다음을 추가
+- better_errors
+- bulma-rails
+- -si
 ```ruby
 # Make errors better looking
 gem 'better_errors', '~>2.4'
-
+# Bulma CSS
+gem 'bulma-rails', '~> 0.6.1'
+# Simple Form
+gem 'simple_form', '~> 3.5'
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NTQ3OTg1LDE4MjA3OTg0NywtMTU2Mz
-U4NDcxNSwxMjY2NTcwODc1LC04OTM3MzExOSwtMzE3ODU4NTEx
-LDkwMTI3NzE1Nl19
+eyJoaXN0b3J5IjpbMTMyODc1ODMxNywxODIwNzk4NDcsLTE1Nj
+M1ODQ3MTUsMTI2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1ODUx
+MSw5MDEyNzcxNTZdfQ==
 -->
