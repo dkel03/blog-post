@@ -31,8 +31,8 @@ basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배
 ### 프로젝트에 사용되는 Gems
 - Better Errors - 에러가 발생했을 때 보기 쉽게 해줌
 - Bulma - CSS Framework
-- Guard -  
+- Guard -  useful for live reloading scss, js, css and erb files
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc1MzM1MzgsLTg5MzczMTE5LC0zMT
-c4NTg1MTEsOTAxMjc3MTU2XX0=
+eyJoaXN0b3J5IjpbMTI2NjU3MDg3NSwtODkzNzMxMTksLTMxNz
+g1ODUxMSw5MDEyNzcxNTZdfQ==
 -->
