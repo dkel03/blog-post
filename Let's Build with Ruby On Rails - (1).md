@@ -65,10 +65,12 @@ group :development do
 end
 ```
 Gemfile을 수정했다면
+
 `$ bundle`
+
 를 통해 모든 gem을 설치해준다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNzAwODg2LDE4MjA3OTg0NywtMTU2Mz
-U4NDcxNSwxMjY2NTcwODc1LC04OTM3MzExOSwtMzE3ODU4NTEx
-LDkwMTI3NzE1Nl19
+eyJoaXN0b3J5IjpbMTQ3MTMzOTAwMiwxODIwNzk4NDcsLTE1Nj
+M1ODQ3MTUsMTI2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1ODUx
+MSw5MDEyNzcxNTZdfQ==
 -->
