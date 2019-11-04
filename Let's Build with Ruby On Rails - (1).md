@@ -34,12 +34,14 @@ basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배
 - Guard -  useful for live reloading scss, js, css and erb files
 
 ### 프로젝트 생성
-`$ rails new demo_blog`
-`$ cd demo_blog` : 만든 ㅍ
-`$ rails s` : 서버 On
+`$ rails new demo_blog` : demo_blog 프로젝트 생성
+`$ cd demo_blog` : 만든 프로젝트 폴더로 이동
+`$ rails s` : 서버 3000 on, 잘 돌아가는지 확인
+
+### gem 설치
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY3NzYxODUsLTE1NjM1ODQ3MTUsMT
-I2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1ODUxMSw5MDEyNzcx
-NTZdfQ==
+eyJoaXN0b3J5IjpbMTgyMDc5ODQ3LC0xNTYzNTg0NzE1LDEyNj
+Y1NzA4NzUsLTg5MzczMTE5LC0zMTc4NTg1MTEsOTAxMjc3MTU2
+XX0=
 -->
