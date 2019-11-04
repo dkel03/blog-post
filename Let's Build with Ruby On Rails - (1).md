@@ -22,9 +22,9 @@ Ruby On Rails를 이용해 댓글 작성이 가능한 블로그를 만들어 보
 또한 Ruby와 Rails를 함께 사용하면 CRUD 접근 방식 기반의 상당히 간단한 MVC 패턴을 구현할 수 있기 때문에 동적 데이터를 다루기 용이합니다.
 
 ### 블로그로 시작하는 이유
-basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배울 수 있습니다. 각각의 포스트들은 created, read, edited, deleted가 가능할 것입니다. 또한 각 게시물에는 댓글을 작성할 수 있도록 할 것입니다. 댓글은 ㅅ
+basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배울 수 있습니다. 각각의 포스트들은 `생성(created)`, `조회(read)`, `수정(edited)`, `삭제(deleted)`가 가능할 것입니다. 또한 각 게시물에는 댓글을 작성할 수 있도록 할 것입니다. 댓글들은 `생성`과 `삭제`가 가능합니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTczOTA5MywtODkzNzMxMTksLTMxNz
-g1ODUxMSw5MDEyNzcxNTZdfQ==
+eyJoaXN0b3J5IjpbNzQzMzg4NTUsLTg5MzczMTE5LC0zMTc4NT
+g1MTEsOTAxMjc3MTU2XX0=
 -->
