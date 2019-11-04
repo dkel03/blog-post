@@ -58,7 +58,7 @@ gem 'simple_form', '~> 3.5'
 group :development do
 					...
 	# Guard is a command line tool to easily handle events on file system modifications.
-	gem 'guard', '~> 2.1.4', '>=2.14.1'
+	gem 'guard', '~> 2.16', '>= 2.16.1'
 	# reload the browser after changes to assets/helpers/tests
 	gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
 					...
@@ -70,7 +70,7 @@ Gemfile을 수정했다면
 
 를 통해 모든 gem을 설치해준다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTMzOTAwMiwxODIwNzk4NDcsLTE1Nj
-M1ODQ3MTUsMTI2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1ODUx
-MSw5MDEyNzcxNTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjUxMjI0NTQsMTQ3MTMzOTAwMiwxOD
+IwNzk4NDcsLTE1NjM1ODQ3MTUsMTI2NjU3MDg3NSwtODkzNzMx
+MTksLTMxNzg1ODUxMSw5MDEyNzcxNTZdfQ==
 -->
