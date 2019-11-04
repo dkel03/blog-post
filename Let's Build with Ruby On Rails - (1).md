@@ -42,7 +42,8 @@ basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배
 demo_blog/Gemfile 에 다음을 추가
 - better_errors
 - bulma-rails
-- -si
+- simple_form
+- guard
 ```ruby
 # Make errors better looking
 gem 'better_errors', '~>2.4'
@@ -53,7 +54,7 @@ gem 'simple_form', '~> 3.5'
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODc1ODMxNywxODIwNzk4NDcsLTE1Nj
+eyJoaXN0b3J5IjpbMjAwNjE1NTA5NSwxODIwNzk4NDcsLTE1Nj
 M1ODQ3MTUsMTI2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1ODUx
 MSw5MDEyNzcxNTZdfQ==
 -->
