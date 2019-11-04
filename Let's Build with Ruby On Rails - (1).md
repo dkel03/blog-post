@@ -12,8 +12,12 @@
 
 ## 1. Introduction
  블로그, 뉴스피드, 작은 유저기반 앱 등을 만들어 볼 것임
+## 2. Installation
+## 3. A Blog with Comments
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzg1ODUxMSw5MDEyNzcxNTZdfQ==
+eyJoaXN0b3J5IjpbODQwNjUyMjMzLC0zMTc4NTg1MTEsOTAxMj
+c3MTU2XX0=
 -->
