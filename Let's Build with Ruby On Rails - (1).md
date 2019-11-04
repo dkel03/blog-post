@@ -29,8 +29,10 @@ basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배
 이 프로젝트를 위해 우리는 몇가지의 `gems`를 사용할 것인데 이는 application 만드는 것에 도움을 줍니다.
 
 ### 프로젝트에 사용되는 Gems
- 
+- Better Errors - 에러가 발생했을 때 보기 쉽게 해줌
+- Bulma - CSS Framework
+- Guard -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MDAyOTgsLTg5MzczMTE5LC0zMTc4NT
-g1MTEsOTAxMjc3MTU2XX0=
+eyJoaXN0b3J5IjpbLTE0Njc1MzM1MzgsLTg5MzczMTE5LC0zMT
+c4NTg1MTEsOTAxMjc3MTU2XX0=
 -->
