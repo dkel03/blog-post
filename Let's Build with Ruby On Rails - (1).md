@@ -25,7 +25,12 @@ Ruby On Rails를 이용해 댓글 작성이 가능한 **블로그**를 만들어
 basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배울 수 있습니다. 
 
 각각의 포스트들은 `생성(created)`, `조회(read)`, `수정(edited)`, `삭제(deleted)`가 가능할 것입니다. 또한 각 게시물에는 댓글을 작성할 수 있도록 할 것입니다. 댓글들은 `생성`과 `삭제`가 가능합니다.
+
+이 프로젝트를 위해 우리는 몇가지의 `gems`를 사용할 것인데 이는 application 만드는 것에 도움을 줍니다.
+
+### 프로젝트에 사용되는 Gems
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTM1OTQ2NywtODkzNzMxMTksLTMxNz
-g1ODUxMSw5MDEyNzcxNTZdfQ==
+eyJoaXN0b3J5IjpbNjk5MDAyOTgsLTg5MzczMTE5LC0zMTc4NT
+g1MTEsOTAxMjc3MTU2XX0=
 -->
