@@ -1,5 +1,5 @@
 # Let's Build with Ruby On Rails - (1)
-This series is all about Ruby on Rails. We’ll be building apps and furthering our knowledge of the framework discussing topics such as MVC patterns, CRUD, databases, migrations, generators, stylesheets, ruby, rails, javascript, and much more.
+이 시리즈는 Ruby on Rails에 관한 것임. 우리는 app들을 만들고 프레임워크에 대한 다음의 ㅁ토 discussing topics such as MVC patterns, CRUD, databases, migrations, generators, stylesheets, ruby, rails, javascript, and much more.
 
 > `Note`
 > Web Crunch - [Let's Build: With Ruby On Rails] 강좌를 정리한 내용임을 알림
@@ -7,10 +7,9 @@ This series is all about Ruby on Rails. We’ll be building apps and furthering 
 
 
 ## 1. Introduction
-### What will we be building?
-- 블로그, 뉴스피드, 작은 유저기반 앱 등등
+ 블로그, 뉴스피드, 작은 유저기반 앱 등을 만들어 볼 것임
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA2ODM3NTIsOTAxMjc3MTU2XX0=
+eyJoaXN0b3J5IjpbMTIyNDMyMTMyMyw5MDEyNzcxNTZdfQ==
 -->
