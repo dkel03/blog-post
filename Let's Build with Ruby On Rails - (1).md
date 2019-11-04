@@ -39,9 +39,15 @@ basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배
 `$ rails s` : 서버 3000 on, 잘 돌아가는지 확인
 
 ### gem 설치
+demo_blog/Gemfile 에 다음을 추가
+```ruby
+# Make errors better looking
+gem 'better_errors', '~>2.4'
+
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDc5ODQ3LC0xNTYzNTg0NzE1LDEyNj
-Y1NzA4NzUsLTg5MzczMTE5LC0zMTc4NTg1MTEsOTAxMjc3MTU2
-XX0=
+eyJoaXN0b3J5IjpbNTY1NTQ3OTg1LDE4MjA3OTg0NywtMTU2Mz
+U4NDcxNSwxMjY2NTcwODc1LC04OTM3MzExOSwtMzE3ODU4NTEx
+LDkwMTI3NzE1Nl19
 -->
