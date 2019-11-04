@@ -35,10 +35,11 @@ basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배
 
 ### 프로젝트 생성
 `$ rails new demo_blog`
-`$ cd demo_blog`
-
+`$ cd demo_blog` : 만든 ㅍ
+`$ rails s` : 서버 On
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM1ODQ3MTUsMTI2NjU3MDg3NSwtOD
-kzNzMxMTksLTMxNzg1ODUxMSw5MDEyNzcxNTZdfQ==
+eyJoaXN0b3J5IjpbLTEyODY3NzYxODUsLTE1NjM1ODQ3MTUsMT
+I2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1ODUxMSw5MDEyNzcx
+NTZdfQ==
 -->
