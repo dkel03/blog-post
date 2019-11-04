@@ -18,13 +18,13 @@ Ruby On Rails 설치
 
 ## 3. A Blog with Comments
 Ruby On Rails를 이용해 댓글 작성이 가능한 블로그를 만들어 보는 것은 이 프레임워크를 배워감에 있어 기본적인 경험이 될 것입니다.
-Ruby와 Rails를 함께 사용하면 이터를 다룸에 있어 CRUD 접근 방식을 기반으로 한 상당히 간단한 MVC 패턴을 구현할 수 있습니다.
-Working together, both Ruby and Rails lend us a hand to generate a fairly simple MVC pattern built on top of a CRUD approach when working with dynamic data.
+
+또한 Ruby와 Rails를 함께 사용하면 CRUD 접근 방식 기반의 상당히 간단한 MVC 패턴을 구현할 수 있기 때문에 동적 데이터를 다루기 용이합니다.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4Mjc2NjE4LC04OTM3MzExOSwtMzE3OD
-U4NTExLDkwMTI3NzE1Nl19
+eyJoaXN0b3J5IjpbLTkzODMwNzQxOCwtODkzNzMxMTksLTMxNz
+g1ODUxMSw5MDEyNzcxNTZdfQ==
 -->
