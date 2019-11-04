@@ -56,12 +56,14 @@ group :development do
 					...
 	# Guard is a command line tool to easily handle events on file system modifications.
 	gem 'guard', '~> 2.1.4', '>=2.14.1'
+	# reload the browser after changes to assets/helpers/tests
+	gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
 					...
 end
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Mzg4NTE1OSwxODIwNzk4NDcsLTE1Nj
+eyJoaXN0b3J5IjpbMTgzODU1ODM2NCwxODIwNzk4NDcsLTE1Nj
 M1ODQ3MTUsMTI2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1ODUx
 MSw5MDEyNzcxNTZdfQ==
 -->
