@@ -7,7 +7,10 @@ This series is all about Ruby on Rails. We’ll be building apps and furthering 
 
 
 ## 1. Introduction
+### What will we be building?
+- 블로그, 뉴스피드, 작은 유저기반 앱 등등
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMjc3MTU2XX0=
+eyJoaXN0b3J5IjpbLTEzMDA2ODM3NTIsOTAxMjc3MTU2XX0=
 -->
