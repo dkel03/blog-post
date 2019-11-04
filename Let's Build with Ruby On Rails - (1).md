@@ -36,7 +36,9 @@ basic한 블로그 제작을 통해 Ruby On Rails의 동작 원리를 쉽게 배
 ### 프로젝트 생성
 
 `$ rails new demo_blog` : demo_blog 프로젝트 생성
+
 `$ cd demo_blog` : 만든 프로젝트 폴더로 이동
+
 `$ rails s` : 서버 3000 on, 잘 돌아가는지 확인
 
 ### gem 설치
@@ -66,7 +68,7 @@ Gemfile을 수정했다면
 `$ bundle`
 를 통해 모든 gem을 설치해준다.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NjM0NDU0LDE4MjA3OTg0NywtMTU2Mz
+eyJoaXN0b3J5IjpbNDQyNzAwODg2LDE4MjA3OTg0NywtMTU2Mz
 U4NDcxNSwxMjY2NTcwODc1LC04OTM3MzExOSwtMzE3ODU4NTEx
 LDkwMTI3NzE1Nl19
 -->
