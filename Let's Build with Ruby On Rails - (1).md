@@ -85,10 +85,15 @@ Gemfile을 수정했다면
 ### Generate POST controller
  `$ rails g controller posts`
  posts 컨트롤러를 생성
- 
+
+app/controllers/posts_controllers.rb
+```ruby
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NTcxODg3LDEzODM0NTI5ODMsLTE2NT
-c1ODA0ODEsLTc1NzM0NjM3LC0xMDY1MTIyNDU0LDE0NzEzMzkw
-MDIsMTgyMDc5ODQ3LC0xNTYzNTg0NzE1LDEyNjY1NzA4NzUsLT
-g5MzczMTE5LC0zMTc4NTg1MTEsOTAxMjc3MTU2XX0=
+eyJoaXN0b3J5IjpbMTEyMzY5NTMzNCwyMjc1NzE4ODcsMTM4Mz
+Q1Mjk4MywtMTY1NzU4MDQ4MSwtNzU3MzQ2MzcsLTEwNjUxMjI0
+NTQsMTQ3MTMzOTAwMiwxODIwNzk4NDcsLTE1NjM1ODQ3MTUsMT
+I2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1ODUxMSw5MDEyNzcx
+NTZdfQ==
 -->
