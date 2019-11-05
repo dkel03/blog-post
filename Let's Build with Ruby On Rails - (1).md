@@ -79,10 +79,12 @@ Gemfile을 수정했다면
 `$ rails generate simple_form:install`
 
 ### Guard configuration
+`$ guard init livereload`
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE0NTY4MjEsLTc1NzM0NjM3LC0xMD
+eyJoaXN0b3J5IjpbLTE2NTc1ODA0ODEsLTc1NzM0NjM3LC0xMD
 Y1MTIyNDU0LDE0NzEzMzkwMDIsMTgyMDc5ODQ3LC0xNTYzNTg0
 NzE1LDEyNjY1NzA4NzUsLTg5MzczMTE5LC0zMTc4NTg1MTEsOT
 AxMjc3MTU2XX0=
