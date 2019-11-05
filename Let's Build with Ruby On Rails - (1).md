@@ -101,11 +101,12 @@ Gemfile을 수정했다면
 작성해준다.
 
 ### bulma-rails 적용하기
-(app/assets/stylesheets/applie)
+- (app/assets/stylesheets/application.css) -> application.scss로 이름 변경
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5ODg3MTM4LDIxMzk2MTcxMjQsMjI3NT
-cxODg3LDEzODM0NTI5ODMsLTE2NTc1ODA0ODEsLTc1NzM0NjM3
-LC0xMDY1MTIyNDU0LDE0NzEzMzkwMDIsMTgyMDc5ODQ3LC0xNT
-YzNTg0NzE1LDEyNjY1NzA4NzUsLTg5MzczMTE5LC0zMTc4NTg1
-MTEsOTAxMjc3MTU2XX0=
+eyJoaXN0b3J5IjpbLTIwODU5MjYyOTQsMjEzOTYxNzEyNCwyMj
+c1NzE4ODcsMTM4MzQ1Mjk4MywtMTY1NzU4MDQ4MSwtNzU3MzQ2
+MzcsLTEwNjUxMjI0NTQsMTQ3MTMzOTAwMiwxODIwNzk4NDcsLT
+E1NjM1ODQ3MTUsMTI2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1
+ODUxMSw5MDEyNzcxNTZdfQ==
 -->
