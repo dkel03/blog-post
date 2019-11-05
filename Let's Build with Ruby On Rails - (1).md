@@ -80,12 +80,11 @@ Gemfile을 수정했다면
 
 ### Guard configuration
 `$ guard init livereload`
-
-
+`$ bundle exec guard`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTc1ODA0ODEsLTc1NzM0NjM3LC0xMD
-Y1MTIyNDU0LDE0NzEzMzkwMDIsMTgyMDc5ODQ3LC0xNTYzNTg0
-NzE1LDEyNjY1NzA4NzUsLTg5MzczMTE5LC0zMTc4NTg1MTEsOT
-AxMjc3MTU2XX0=
+eyJoaXN0b3J5IjpbMTM4MzQ1Mjk4MywtMTY1NzU4MDQ4MSwtNz
+U3MzQ2MzcsLTEwNjUxMjI0NTQsMTQ3MTMzOTAwMiwxODIwNzk4
+NDcsLTE1NjM1ODQ3MTUsMTI2NjU3MDg3NSwtODkzNzMxMTksLT
+MxNzg1ODUxMSw5MDEyNzcxNTZdfQ==
 -->
