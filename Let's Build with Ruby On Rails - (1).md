@@ -74,14 +74,15 @@ Gemfile을 수정했다면
 
 를 통해 모든 gem을 설치해준다.
 
-### simple-form install
+### Simple-form install
 
 `$ rails generate simple_form:install`
 
+### Guard configuration
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUyNTc3NzEsLTc1NzM0NjM3LC0xMD
+eyJoaXN0b3J5IjpbLTE2MTE0NTY4MjEsLTc1NzM0NjM3LC0xMD
 Y1MTIyNDU0LDE0NzEzMzkwMDIsMTgyMDc5ODQ3LC0xNTYzNTg0
 NzE1LDEyNjY1NzA4NzUsLTg5MzczMTE5LC0zMTc4NTg1MTEsOT
 AxMjc3MTU2XX0=
