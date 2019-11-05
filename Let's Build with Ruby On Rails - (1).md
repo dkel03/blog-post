@@ -82,9 +82,12 @@ Gemfile을 수정했다면
 `$ guard init livereload`
 `$ bundle exec guard`
 
-### Generate controller  
+### Generate POST controller
+ `$ rails g controller posts`
+ posts 컨트롤러를 생성
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MTg3MDQ1LDEzODM0NTI5ODMsLTE2NT
+eyJoaXN0b3J5IjpbMjI3NTcxODg3LDEzODM0NTI5ODMsLTE2NT
 c1ODA0ODEsLTc1NzM0NjM3LC0xMDY1MTIyNDU0LDE0NzEzMzkw
 MDIsMTgyMDc5ODQ3LC0xNTYzNTg0NzE1LDEyNjY1NzA4NzUsLT
 g5MzczMTE5LC0zMTc4NTg1MTEsOTAxMjc3MTU2XX0=
