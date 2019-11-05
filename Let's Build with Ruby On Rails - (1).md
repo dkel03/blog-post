@@ -52,7 +52,7 @@ demo_blog/Gemfile 에 다음을 추가
 gem 'better_errors', '~> 2.5', '>= 2.5.1'
 
 # Bulma CSS
-gem 'bulma-rails', '~> 0.7.5'
+gem 'bulma-rails', '~> 0.6.1'
 
 # Simple Form
 gem 'simple_form', '~> 5.0', '>= 5.0.1'
@@ -73,8 +73,15 @@ Gemfile을 수정했다면
 `$ bundle`
 
 를 통해 모든 gem을 설치해준다.
+
+### simple-form install
+
+`$ rails generate simple_form:install`
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzM0NjM3LC0xMDY1MTIyNDU0LDE0Nz
-EzMzkwMDIsMTgyMDc5ODQ3LC0xNTYzNTg0NzE1LDEyNjY1NzA4
-NzUsLTg5MzczMTE5LC0zMTc4NTg1MTEsOTAxMjc3MTU2XX0=
+eyJoaXN0b3J5IjpbNzc0MDMyNzQzLC03NTczNDYzNywtMTA2NT
+EyMjQ1NCwxNDcxMzM5MDAyLDE4MjA3OTg0NywtMTU2MzU4NDcx
+NSwxMjY2NTcwODc1LC04OTM3MzExOSwtMzE3ODU4NTExLDkwMT
+I3NzE1Nl19
 -->
