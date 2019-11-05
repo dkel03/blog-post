@@ -84,16 +84,21 @@ Gemfile을 수정했다면
 
 ### Generate POST controller
  `$ rails g controller posts`
- posts 컨트롤러를 생성
-
-app/controllers/posts_controllers.rb
+ 
+ posts 컨트롤러를 생성한 후
+(app/controllers/posts_controllers.rb)
 ```ruby
-
+  def index
+    
+  end
 ```
+작성해준다.
+
+(app/views/posts/index.html.erb) 만들어 준다음
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzY5NTMzNCwyMjc1NzE4ODcsMTM4Mz
-Q1Mjk4MywtMTY1NzU4MDQ4MSwtNzU3MzQ2MzcsLTEwNjUxMjI0
-NTQsMTQ3MTMzOTAwMiwxODIwNzk4NDcsLTE1NjM1ODQ3MTUsMT
-I2NjU3MDg3NSwtODkzNzMxMTksLTMxNzg1ODUxMSw5MDEyNzcx
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTEzOTIzNDI0MzksMjI3NTcxODg3LDEzOD
+M0NTI5ODMsLTE2NTc1ODA0ODEsLTc1NzM0NjM3LC0xMDY1MTIy
+NDU0LDE0NzEzMzkwMDIsMTgyMDc5ODQ3LC0xNTYzNTg0NzE1LD
+EyNjY1NzA4NzUsLTg5MzczMTE5LC0zMTc4NTg1MTEsOTAxMjc3
+MTU2XX0=
 -->
